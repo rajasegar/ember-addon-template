@@ -8,25 +8,18 @@ ember-addon-template
 [![EmberObserver](http://emberobserver.com/badges/ember-addon-template.svg?branch=master)](http://emberobserver.com/addons/ember-addon-template)
 
 
-[Short description of the addon.]
+This is a git template repositor for creating new Ember addons.
 
-
-
-
-Installation
-------------------------------------------------------------------------------
-
-```
-ember install ember-addon-template
-```
 
 
 Usage
 ------------------------------------------------------------------------------
 
 ```
-<div>Hello World</div>
+degit rajasegar/ember-addon-template <new-addon-name>
 ```
+
+
 
 Compatibility
 ------------------------------------------------------------------------------
