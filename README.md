@@ -15,6 +15,13 @@ This is a git template repositor for creating new Ember addons.
 Usage
 ------------------------------------------------------------------------------
 
+### Installing degit (optional)
+```
+npm i -g degit
+```
+
+With degit you can use
+
 ```
 degit rajasegar/ember-addon-template <new-addon-name>
 ```
